@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 100%;
+  height:100vh;
+  background:linear-gradient(
+    to right,
+    pink 0%,
+    pink 50%,
+    paleturquoise 50%,
+    paleturquoise 100%
+  );
+}
+.Text1 {
+height:20vh;
+}
+
+.Data {
+  height:10vh;
+  width:80vw;
+  border-radius: 1cm;
+}
+input {
+   width:80vw;
+   height: 5vh;
+   border-radius: 1cm;
+
+}
+
+button {
+  width: 30vw;
+  height: 8vh;
+  background:linear-gradient(
+    to right,
+    pink 0%,
+    pink 50%,
+    paleturquoise 50%,
+    paleturquoise 100%
+  );
+
+}
